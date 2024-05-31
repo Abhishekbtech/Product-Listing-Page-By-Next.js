@@ -37,7 +37,6 @@ export default function Home() {
   );
 
   return (
-    // <main className="flex min-h-screen flex-col items-center justify-between p-24">
     <div className="container mx-auto p-4 bg-black text-white ">
       <div className="container mx-auto p-4 bg-black text-white flex flex-wrap justify-center">
         <h1 className="text-5xl font-bold mb-4 w-full text-center">
