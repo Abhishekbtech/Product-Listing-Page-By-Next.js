@@ -1,3 +1,8 @@
+## Product Listing Page
+# Overview
+This project is a responsive product listing page built with Next.js and Tailwind CSS. It fetches product data from a mock API and displays it in a grid layout. It includes functionalities such as searching for products by name and viewing product details in a modal.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
