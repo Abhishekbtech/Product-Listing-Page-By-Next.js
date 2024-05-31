@@ -44,5 +44,5 @@ npm run dev
 
 ## Deploy on Vercel
 
-Deploy link of my project https://product-listing-page-by-next-js.vercel.app/
+Deployment link of my project https://product-listing-page-by-next-js.vercel.app/
 
