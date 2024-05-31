@@ -24,7 +24,7 @@ const ProductModal: React.FC<ProductModalProps> = ({ product, onClose }) => {
                     <h2 className="text-xl font-bold mb-2">{product.title}</h2>
                     <img src={product.image} alt={product.title} className="w-full h-65 object-cover mb-2" />
                 </div>
-                <div className="w-1/2 pl-2 flex flex-col justify-between">
+                <div className="w-1/2 pl-2 flex flex-col justify-between mt-5">
                     <div>
                         <p>{product.description}</p>
                         <div className="flex justify-between items-center">
